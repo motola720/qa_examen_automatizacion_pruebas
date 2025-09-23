@@ -1,0 +1,20 @@
+# Maven
+target/
+.mvn/
+**/surefire-reports/
+**/failsafe-reports/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Otros
+.m2/
